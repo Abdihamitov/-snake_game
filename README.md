@@ -10,4 +10,5 @@
 1. Клонируй репозиторий:
 ```bash
 git clone https://github.com/Abdihamitov/snake_game.git
+```bash
 pip install pygame
