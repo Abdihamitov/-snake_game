@@ -2,7 +2,6 @@
 
 Классическая змейка, написанная на Python с использованием Pygame.
 
-![Snake Game Demo](https://raw.githubusercontent.com/rajatdiptabiswas/snake-pygame/main/demo.gif)
 
 ---
 
