@@ -2,7 +2,7 @@
 
 Классическая змейка, написанная на Python с использованием Pygame.
 
-![Snake Game Demo](https://i.gifer.com/7VE.gif) <!-- Заменим на гифку от Skillbox, если будет -->
+![Snake Game Demo](https://raw.githubusercontent.com/rajatdiptabiswas/snake-pygame/main/demo.gif)
 
 ---
 
