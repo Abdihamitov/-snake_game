@@ -1,14 +1,14 @@
 # 🐍 Snake Game (Console Edition)
 
-Классическая змейка в терминале, написанная на Python с использованием библиотеки `curses`.
+Классическая змейка, написанная на Python с использованием Pygame.
 
-![Snake Game Demo](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Snake Game Demo](https://i.gifer.com/7VE.gif) <!-- Заменим на гифку от Skillbox, если будет -->
 
 ---
 
 ## ⚙️ Установка
 
-1. Склонируй репозиторий:
+1. Клонируй репозиторий:
 ```bash
-git clone https://github.com/ТВОЙ_ЮЗЕРНЕЙМ/snake-game-terminal.git
+git clone https://github.com/Abdihamitov/snake_game.git
 pip install pygame
