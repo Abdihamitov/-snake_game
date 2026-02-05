@@ -1,13 +1,1 @@
-# 🐍 Snake Game (Console Edition)
-
-Классическая змейка, написанная на Python с использованием Pygame.
-
-
----
-
-## ⚙️ Установка
-
-1. Клонируй репозиторий:
-```bash
-git clone https://github.com/Abdihamitov/snake_game.git
-pip install pygame
+https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif
